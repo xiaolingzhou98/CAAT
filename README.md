@@ -10,7 +10,7 @@ The requiring environment is as bellow:<br>
 * pytorch 1.9.0<br>
 * torchvision 0.10.0<br>
 
-Running CAAT on benchmark datasets (CIFAR-10 and CIFAR-100).
+Running CAAT on benchmark datasets (CIFAR-10).
 -------  
 Here are two examples for training imbalanced and noisy data:<br>
 ResNet32 on CIFAR10-LT with imbalanced factor of 10:<br>
